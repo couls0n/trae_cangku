@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edba1298-faeb-40aa-8bb1-5daea9fc06fd" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="explicitlyDisabledProfiles" value="jdk-23" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3AggP15xkcBp1QnQRFCuJEG75z9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.warehouse-management [clean].executor": "Run",
+    "Maven.warehouse-management [compile].executor": "Run",
+    "Maven.warehouse-management [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.WarehouseApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java_code/ShangTing/codeByMe/shangting-apartment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.WarehouseApplication.executor": "Run",
+    "数据库脚本.init.sql.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora",
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "a02d94ce-8c9e-4d81-bcc9-434f92fb903d"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="应用程序.WarehouseApplication">
+    <configuration name="WarehouseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.warehouse.WarehouseApplication" />
+      <module name="warehouse-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.warehouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="init.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/init.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="a02d94ce-8c9e-4d81-bcc9-434f92fb903d" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="warehouse-management" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WarehouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="warehouse-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.warehouse.WarehouseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WarehouseApplication" />
+      <item itemvalue="应用程序.WarehouseApplication" />
+      <item itemvalue="数据库脚本.init.sql" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.WarehouseApplication" />
+        <item itemvalue="数据库脚本.init.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="edba1298-faeb-40aa-8bb1-5daea9fc06fd" name="更改" comment="" />
+      <created>1773019600100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773019600100</updated>
+      <workItem from="1773019601334" duration="540000" />
+      <workItem from="1773020413200" duration="2373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
