@@ -21,35 +21,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.warehouse-management [clean].executor": "Run",
-    "Maven.warehouse-management [compile].executor": "Run",
-    "Maven.warehouse-management [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.WarehouseApplication.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java_code/ShangTing/codeByMe/shangting-apartment",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.WarehouseApplication.executor": "Run",
-    "数据库脚本.init.sql.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.warehouse-management [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.warehouse-management [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.warehouse-management [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.WarehouseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java_code/ShangTing/codeByMe/shangting-apartment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.WarehouseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;数据库脚本.init.sql.executor&quot;: &quot;Run&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql_aurora",
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora&quot;,
+      &quot;mysql&quot;
     ],
-    "RunConfigurationTargetLRU": [
-      "a02d94ce-8c9e-4d81-bcc9-434f92fb903d"
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;a02d94ce-8c9e-4d81-bcc9-434f92fb903d&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.WarehouseApplication">
     <configuration name="WarehouseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.warehouse.WarehouseApplication" />
@@ -68,11 +68,6 @@
       <script-file value="$PROJECT_DIR$/src/main/resources/db/init.sql" />
       <script-mode>FILE</script-mode>
       <data-source id="a02d94ce-8c9e-4d81-bcc9-434f92fb903d" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="warehouse-management" />
-      <option name="filePath" />
       <method v="2" />
     </configuration>
     <configuration name="WarehouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">

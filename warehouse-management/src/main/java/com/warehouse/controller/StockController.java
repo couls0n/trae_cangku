@@ -9,6 +9,7 @@ import com.warehouse.service.StockService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 @RestController
@@ -60,5 +61,29 @@ public class StockController {
     @DeleteMapping("/{id}")
     public Result<Boolean> delete(@PathVariable Long id) {
         return Result.success(stockService.removeById(id));
+    }
+
+    @PostMapping("/deduct")
+    public Result<Boolean> deductStock(@RequestParam Long warehouseId,
+                                      @RequestParam Long productId,
+                                      @RequestParam BigDecimal quantity) {
+        boolean result = stockService.deductStock(warehouseId, productId, quantity);
+        if (result) {
+            return Result.success(true);
+        } else {
+            return Result.error("库存不足或操作失败");
+        }
+    }
+
+    @PostMapping("/add")
+    public Result<Boolean> addStock(@RequestParam Long warehouseId,
+                                   @RequestParam Long productId,
+                                   @RequestParam BigDecimal quantity) {
+        boolean result = stockService.addStock(warehouseId, productId, quantity);
+        if (result) {
+            return Result.success(true);
+        } else {
+            return Result.error("库存增加失败");
+        }
     }
 }

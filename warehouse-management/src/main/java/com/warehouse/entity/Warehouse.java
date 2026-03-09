@@ -1,6 +1,8 @@
 package com.warehouse.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
+import com.warehouse.common.sensitive.SensitiveInfo;
+import com.warehouse.common.sensitive.SensitiveType;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
@@ -13,10 +15,13 @@ public class Warehouse extends BaseEntity {
 
     private String warehouseName;
 
+    @SensitiveInfo(type = SensitiveType.ADDRESS)
     private String address;
 
+    @SensitiveInfo(type = SensitiveType.NAME)
     private String manager;
 
+    @SensitiveInfo(type = SensitiveType.PHONE)
     private String phone;
 
     private Integer status;

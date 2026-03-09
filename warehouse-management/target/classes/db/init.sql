@@ -202,6 +202,28 @@ CREATE TABLE `outbound_order_item` (
   KEY `idx_order_id` (`order_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='出库单明细表';
 
+-- 审计日志表
+DROP TABLE IF EXISTS `audit_log`;
+CREATE TABLE `audit_log` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '主键ID',
+  `user_id` varchar(50) DEFAULT NULL COMMENT '用户ID',
+  `username` varchar(50) DEFAULT NULL COMMENT '用户名',
+  `operation_type` varchar(20) DEFAULT NULL COMMENT '操作类型',
+  `operation_module` varchar(50) DEFAULT NULL COMMENT '操作模块',
+  `operation_content` varchar(500) DEFAULT NULL COMMENT '操作内容',
+  `ip_address` varchar(50) DEFAULT NULL COMMENT 'IP地址',
+  `user_agent` varchar(500) DEFAULT NULL COMMENT '用户代理',
+  `result` varchar(20) DEFAULT NULL COMMENT '操作结果',
+  `remark` varchar(500) DEFAULT NULL COMMENT '备注',
+  `create_time` datetime DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
+  `update_time` datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
+  `deleted` int(1) DEFAULT 0 COMMENT '删除标记',
+  PRIMARY KEY (`id`),
+  KEY `idx_user_id` (`user_id`),
+  KEY `idx_operation_type` (`operation_type`),
+  KEY `idx_create_time` (`create_time`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='审计日志表';
+
 -- 初始化数据
 INSERT INTO `sys_user` (`username`, `password`, `real_name`, `phone`, `email`, `status`, `role`) VALUES
 ('admin', '123456', '管理员', '13800138000', 'admin@example.com', 1, 2),
