@@ -33,7 +33,6 @@ com\warehouse\service\impl\AuditLogServiceImpl.class
 com\warehouse\service\impl\ProductServiceImpl.class
 com\warehouse\common\sensitive\SensitiveType.class
 com\warehouse\common\PageResult.class
-com\warehouse\config\JacksonConfig.class
 com\warehouse\mapper\StockMapper.class
 com\warehouse\service\ProductService.class
 com\warehouse\entity\InboundOrder.class

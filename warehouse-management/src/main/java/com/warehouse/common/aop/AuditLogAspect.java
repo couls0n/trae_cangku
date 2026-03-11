@@ -5,7 +5,6 @@ import com.warehouse.entity.AuditLog;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.AfterReturning;
 import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -19,7 +18,7 @@ import java.time.LocalDateTime;
 @Component
 public class AuditLogAspect {
 
-    @Autowired
+    @Autowired(required = false)
     private AuditLogProducer auditLogProducer;
 
     @Pointcut("execution(* com.warehouse.controller.*.*(..))")
@@ -27,22 +26,28 @@ public class AuditLogAspect {
 
     @AfterReturning(pointcut = "controllerPointcut()", returning = "result")
     public void afterReturning(JoinPoint joinPoint, Object result) {
-        HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getRequest();
+        if (auditLogProducer == null) {
+            return;
+        }
+        try {
+            HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getRequest();
 
-        AuditLog auditLog = new AuditLog();
-        auditLog.setUserId("1"); // 实际项目中从token或session中获取
-        auditLog.setUsername("admin"); // 实际项目中从token或session中获取
-        auditLog.setOperationType(getOperationType(joinPoint.getSignature().getName()));
-        auditLog.setOperationModule(joinPoint.getTarget().getClass().getSimpleName());
-        auditLog.setOperationContent(joinPoint.getSignature().toShortString());
-        auditLog.setIpAddress(request.getRemoteAddr());
-        auditLog.setUserAgent(request.getHeader("User-Agent"));
-        auditLog.setResult("SUCCESS");
-        auditLog.setCreateTime(LocalDateTime.now());
-        auditLog.setUpdateTime(LocalDateTime.now());
+            AuditLog auditLog = new AuditLog();
+            auditLog.setUserId("1");
+            auditLog.setUsername("admin");
+            auditLog.setOperationType(getOperationType(joinPoint.getSignature().getName()));
+            auditLog.setOperationModule(joinPoint.getTarget().getClass().getSimpleName());
+            auditLog.setOperationContent(joinPoint.getSignature().toShortString());
+            auditLog.setIpAddress(request.getRemoteAddr());
+            auditLog.setUserAgent(request.getHeader("User-Agent"));
+            auditLog.setResult("SUCCESS");
+            auditLog.setCreateTime(LocalDateTime.now());
+            auditLog.setUpdateTime(LocalDateTime.now());
 
-        // 发送到RabbitMQ
-        auditLogProducer.sendAuditLog(auditLog);
+            auditLogProducer.sendAuditLog(auditLog);
+        } catch (Exception e) {
+            // 忽略审计日志错误，不影响主业务
+        }
     }
 
     private String getOperationType(String methodName) {

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edba1298-faeb-40aa-8bb1-5daea9fc06fd" name="更改" comment="" />
+    <list default="true" id="edba1298-faeb-40aa-8bb1-5daea9fc06fd" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/warehouse/common/aop/AuditLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/warehouse/common/aop/AuditLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/warehouse/config/JacksonConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/warehouse/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/warehouse/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/warehouse/service/impl/InboundOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/warehouse/service/impl/InboundOrderServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +121,7 @@
       <workItem from="1773020413200" duration="2373000" />
       <workItem from="1773060211970" duration="3625000" />
       <workItem from="1773111442718" duration="22000" />
-      <workItem from="1773197031464" duration="925000" />
+      <workItem from="1773197031464" duration="2026000" />
     </task>
     <servers />
   </component>

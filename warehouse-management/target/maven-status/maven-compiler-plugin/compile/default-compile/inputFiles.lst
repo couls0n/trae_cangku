@@ -34,7 +34,6 @@ D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\entity
 D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\config\WebConfig.java
 D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\service\WarehouseService.java
 D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\service\InboundOrderService.java
-D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\config\JacksonConfig.java
 D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\entity\Stock.java
 D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\service\impl\InboundOrderItemServiceImpl.java
 D:\Java_code\trae_cangku\warehouse-management\src\main\java\com\warehouse\service\impl\SupplierServiceImpl.java
