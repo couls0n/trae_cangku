@@ -2,7 +2,6 @@ package com.warehouse.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.module.SimpleModule;
-import com.warehouse.common.sensitive.SensitiveInfo;
 import com.warehouse.common.sensitive.SensitiveInfoSerializer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -17,10 +16,7 @@ public class JacksonConfig {
         ObjectMapper mapper = Jackson2ObjectMapperBuilder.json()
                 .build();
         
-        // 注册自定义序列化器模块
-        SimpleModule module = new SimpleModule();
-        module.addSerializer(Object.class, new SensitiveInfoSerializer());
-        mapper.registerModule(module);
+        // 不需要注册全局序列化器，SensitiveInfoSerializer 会通过 @SensitiveInfo 注解自动应用
         
         return new MappingJackson2HttpMessageConverter(mapper);
     }

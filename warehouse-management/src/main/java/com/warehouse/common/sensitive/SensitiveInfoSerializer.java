@@ -25,7 +25,7 @@ public class SensitiveInfoSerializer extends JsonSerializer<Object> implements C
             String maskedValue = SensitiveUtil.mask(value.toString(), sensitiveType);
             gen.writeString(maskedValue);
         } else {
-            serializers.defaultSerializeValue(value, gen);
+            gen.writeObject(value);
         }
     }
 

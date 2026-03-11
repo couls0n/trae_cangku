@@ -4,43 +4,165 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e907d5-d087-47b3-af88-030b587061ac" name="更改" comment="" />
+    <list default="true" id="25e907d5-d087-47b3-af88-030b587061ac" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/.idea/dataSources/a02d94ce-8c9e-4d81-bcc9-434f92fb903d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/.idea/dataSources/a02d94ce-8c9e-4d81-bcc9-434f92fb903d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/com/jayway/jsonpath/json-path/2.4.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/com/jayway/jsonpath/json-path/2.4.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/jakarta/activation/jakarta.activation-api/1.2.2/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/jakarta/activation/jakarta.activation-api/1.2.2/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/junit/junit/4.13.2/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/junit/junit/4.13.2/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/mysql/mysql-connector-java/8.0.25/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/mysql/mysql-connector-java/8.0.25/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/net/bytebuddy/byte-buddy-agent/1.10.22/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/net/bytebuddy/byte-buddy-agent/1.10.22/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/net/minidev/accessors-smart/2.3.1/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/net/minidev/accessors-smart/2.3.1/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/net/minidev/json-smart/2.3.1/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/net/minidev/json-smart/2.3.1/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/apiguardian/apiguardian-api/1.1.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/apiguardian/apiguardian-api/1.1.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/assertj/assertj-core/3.16.1/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/assertj/assertj-core/3.16.1/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/hamcrest/hamcrest/2.2/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/hamcrest/hamcrest/2.2/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter-api/5.6.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter-api/5.6.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter-engine/5.6.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter-engine/5.6.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter-params/5.6.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter-params/5.6.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter/5.6.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/jupiter/junit-jupiter/5.6.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/platform/junit-platform-commons/1.6.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/platform/junit-platform-commons/1.6.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/platform/junit-platform-engine/1.6.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/platform/junit-platform-engine/1.6.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/vintage/junit-vintage-engine/5.6.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/junit/vintage/junit-vintage-engine/5.6.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/latencyutils/LatencyUtils/2.0.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/latencyutils/LatencyUtils/2.0.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/mockito/mockito-core/3.3.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/mockito/mockito-core/3.3.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/mockito/mockito-junit-jupiter/3.3.3/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/mockito/mockito-junit-jupiter/3.3.3/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/objenesis/objenesis/2.6/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/objenesis/objenesis/2.6/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/opentest4j/opentest4j/1.2.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/opentest4j/opentest4j/1.2.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/ow2/asm/asm/5.0.4/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/ow2/asm/asm/5.0.4/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/skyscreamer/jsonassert/1.5.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/skyscreamer/jsonassert/1.5.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/boot/spring-boot-starter-test/2.3.12.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/boot/spring-boot-starter-test/2.3.12.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.3.12.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.3.12.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/boot/spring-boot-test/2.3.12.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/boot/spring-boot-test/2.3.12.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/spring-test/5.2.15.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/springframework/spring-test/5.2.15.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/xmlunit/xmlunit-core/2.7.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/MAWEN/repository/org/xmlunit/xmlunit-core/2.7.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/src/main/java/com/warehouse/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/src/main/java/com/warehouse/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/WarehouseApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/WarehouseApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/PageResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/PageResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/amqp/AuditLogConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/amqp/AuditLogConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/amqp/AuditLogProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/amqp/AuditLogProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/aop/AuditLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/aop/AuditLogAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/interceptor/RiskControlInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/interceptor/RiskControlInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveInfoSerializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveInfoSerializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/common/sensitive/SensitiveUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/JacksonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/JacksonConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/MyMetaObjectHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/MyMetaObjectHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/MybatisPlusConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/MybatisPlusConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/RabbitMQConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/RabbitMQConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/InboundOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/InboundOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/OutboundOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/OutboundOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/StockController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/StockController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/SupplierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/SupplierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/WarehouseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/controller/WarehouseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/AuditLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/AuditLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/InboundOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/InboundOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/InboundOrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/InboundOrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/OutboundOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/OutboundOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/OutboundOrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/OutboundOrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Supplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Supplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Warehouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/entity/Warehouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/AuditLogMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/AuditLogMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/CategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/CustomerMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/CustomerMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/InboundOrderItemMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/InboundOrderItemMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/InboundOrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/InboundOrderMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/OutboundOrderItemMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/OutboundOrderItemMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/OutboundOrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/OutboundOrderMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/ProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/ProductMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/StockMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/StockMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/SupplierMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/SupplierMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/WarehouseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/mapper/WarehouseMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/AuditLogService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/AuditLogService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/InboundOrderItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/InboundOrderItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/InboundOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/InboundOrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/OutboundOrderItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/OutboundOrderItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/OutboundOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/OutboundOrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/StockService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/StockService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/SupplierService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/SupplierService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/WarehouseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/WarehouseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/AuditLogServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/AuditLogServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/InboundOrderItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/InboundOrderItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/InboundOrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/InboundOrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/OutboundOrderItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/OutboundOrderItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/OutboundOrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/OutboundOrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/StockServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/StockServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/SupplierServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/SupplierServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/WarehouseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-management/target/classes/com/warehouse/service/impl/WarehouseServiceImpl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3AgirhtnPnME1zR6iLfN3yJFh4a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Node.js.main.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/Java_code/trae_cangku/warehouse-frontend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java_code/trae_cangku/warehouse-frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="25e907d5-d087-47b3-af88-030b587061ac" name="更改" comment="" />
@@ -49,6 +171,8 @@
       <option name="presentableId" value="Default" />
       <updated>1773020815022</updated>
       <workItem from="1773020816237" duration="676000" />
+      <workItem from="1773064136789" duration="837000" />
+      <workItem from="1773111539979" duration="558000" />
     </task>
     <servers />
   </component>
